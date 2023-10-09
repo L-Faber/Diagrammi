@@ -1,3 +1,3 @@
-#Progetto MagisterPro</p>
-#@magisterpro.com</p>
-#password: testing</p>
+# Progetto MagisterPro</p>
+# @magisterpro.com</p>
+# password: testing</p>
