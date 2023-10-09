@@ -1,3 +1,1 @@
-# Progetto MagisterPro</p>
-@magisterpro.com</p>
-password: testing</p>
+# [Progetto MagisterPro](https://magisterpro.mdariful.com/dashboard)
