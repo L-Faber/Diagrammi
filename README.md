@@ -1,4 +1,4 @@
-Codice Fiscale sullo scontrino /r
+Codice Fiscale sullo scontrino r/
 Fedelity Card 
   Stampa Tessera Fedeltà
   Stampa Punti Sullo Scontrino
