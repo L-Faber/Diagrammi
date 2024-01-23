@@ -1,8 +1,8 @@
-Codice Fiscale sullo scontrino </p>
-Fedelity Card 
-  Stampa Tessera Fedeltà
-  Stampa Punti Sullo Scontrino
-  Sconti Sullo Scontrino
-Scontrino di Cortesia (?) 
+• Codice Fiscale sullo scontrino </p>
+Fedelity Card </p>
+  Stampa Tessera Fedeltà </p>
+  Stampa Punti Sullo Scontrino </p>
+  Sconti Sullo Scontrino </p>
+Scontrino di Cortesia (?) </p>
 
   (Aggiunta della Gift Cards)
